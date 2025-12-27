@@ -1,0 +1,15 @@
+total 52
+drwxr-xr-x 2 abdulfataidosumu abdulfataidosumu 4096 Dec 27 11:18 .
+drwxr-xr-x 6 abdulfataidosumu abdulfataidosumu 4096 Dec 26 21:00 ..
+-rwxr--r-- 1 abdulfataidosumu abdulfataidosumu   32 Dec 26 21:05 0-hello_world
+-rwxr--r-- 1 abdulfataidosumu abdulfataidosumu   28 Dec 26 21:10 1-confused_smiley
+-rw-r--r-- 1 abdulfataidosumu abdulfataidosumu   28 Dec 26 21:13 2-hellofile
+-rwxr--r-- 1 abdulfataidosumu abdulfataidosumu   39 Dec 26 21:16 3-twofiles
+-rw-r--r-- 1 abdulfataidosumu abdulfataidosumu   29 Dec 26 21:23 4-lastlines
+-rwxr--r-- 1 abdulfataidosumu abdulfataidosumu   29 Dec 26 21:25 5-firstlines
+-rwxr--r-- 1 abdulfataidosumu abdulfataidosumu   40 Dec 26 21:42 6-third_line
+-rwxr--r-- 1 abdulfataidosumu abdulfataidosumu   97 Dec 27 11:15 7-file
+-rwxr--r-- 1 abdulfataidosumu abdulfataidosumu   36 Dec 27 11:17 8-cwd_state
+-rw-r--r-- 1 abdulfataidosumu abdulfataidosumu  195 Dec 26 21:04 README.md
+-rw-r--r-- 1 abdulfataidosumu abdulfataidosumu  801 Dec 26 21:43 iacta
+-rw-r--r-- 1 abdulfataidosumu abdulfataidosumu    0 Dec 27 11:18 ls_cwd_content
